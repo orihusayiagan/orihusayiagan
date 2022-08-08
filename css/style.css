@@ -4,8 +4,8 @@ body {
     background-repeat: no-repeat;
     margin : 0;
     padding : 0;
-    height: 80%;
-    width: 80%;
+    height: 70%;
+    width: 70%;
     text-align: center;
 }
 #omikuji{
@@ -30,7 +30,7 @@ body {
   border-radius: 7px;/*角丸に*/
   display: inline-block;
   height: 100px;/*高さ*/
-  width: 400px;/*幅*/
+  width: 300px;/*幅*/
   text-align: center;/*中身を中央寄せ*/
   font-size: 25px;/*文字のサイズ*/
   line-height: 50px;/*高さと合わせる*/
@@ -38,7 +38,6 @@ body {
   overflow: hidden;/*はみ出た部分を隠す*/
   text-decoration:none;/*下線は消す*/
   text-shadow: 2px 2px 0px #4287d6;
-  font-size: 50px;
 }
 
 #btn-social-long-twitter span {
