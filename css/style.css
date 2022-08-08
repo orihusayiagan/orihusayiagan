@@ -1,6 +1,6 @@
 body {
     background-image : url("../images/omikuji-bg.png");
-    background-size : contain;
+    background-size : cover;
     background-repeat: no-repeat;
     margin : 0;
     padding : 0;
@@ -9,9 +9,9 @@ body {
     text-align: center;
 }
 #omikuji{
-	margin: 20px;
-    width : 50%;
-    height: 50%;/*高さ*/
+    margin: 20px;
+    width : 30%;
+    height: 30%;/*高さ*/
 }
 #playBtn {
     width: 60%;
