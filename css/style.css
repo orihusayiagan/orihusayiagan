@@ -4,14 +4,14 @@ body {
     background-repeat: no-repeat;
     margin : 0;
     padding : 0;
-    height: 100%;
-    width: 100%;
+    height: 80%;
+    width: 80%;
     text-align: center;
 }
 #omikuji{
 	margin: 20px;
     width : 50%;
-    height: 50%;/*‚‚³*/
+    height: 50%;/*é«˜ã•*/
 }
 #playBtn {
     width: 60%;
@@ -26,19 +26,19 @@ body {
     height:90%;
 }
 #playBtn2 {
-. color: #FFF;/*•¶šEƒAƒCƒRƒ“F*/
-  border-radius: 7px;/*ŠpŠÛ‚É*/
+. color: #FFF;/*æ–‡å­—ãƒ»ã‚¢ã‚¤ã‚³ãƒ³è‰²*/
+  border-radius: 7px;/*è§’ä¸¸ã«*/
   display: inline-block;
-  height: 50px;/*‚‚³*/
-  width: 300px;/*•*/
-  text-align: center;/*’†g‚ğ’†‰›Šñ‚¹*/
-  font-size: 25px;/*•¶š‚ÌƒTƒCƒY*/
-  line-height: 50px;/*‚‚³‚Æ‡‚í‚¹‚é*/
+  height: 100px;/*é«˜ã•*/
+  width: 400px;/*å¹…*/
+  text-align: center;/*ä¸­èº«ã‚’ä¸­å¤®å¯„ã›*/
+  font-size: 25px;/*æ–‡å­—ã®ã‚µã‚¤ã‚º*/
+  line-height: 50px;/*é«˜ã•ã¨åˆã‚ã›ã‚‹*/
   background: #1da1f3;
-  overflow: hidden;/*‚Í‚İo‚½•”•ª‚ğ‰B‚·*/
-  text-decoration:none;/*‰ºü‚ÍÁ‚·*/
+  overflow: hidden;/*ã¯ã¿å‡ºãŸéƒ¨åˆ†ã‚’éš ã™*/
+  text-decoration:none;/*ä¸‹ç·šã¯æ¶ˆã™*/
   text-shadow: 2px 2px 0px #4287d6;
-  font-size: 30px;
+  font-size: 50px;
 }
 
 #btn-social-long-twitter span {
