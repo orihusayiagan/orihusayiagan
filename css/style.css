@@ -1,5 +1,5 @@
 body {
-    background-image : url("../images/omikuji-bg1.png");
+    background-image : url("../images/omikuji-bg.png");
     background-size : cover;
     background-repeat: no-repeat;
     margin : 0;
@@ -9,7 +9,7 @@ body {
     text-align: center;
 }
 @media screen and (max-width: 767px){
-    background-image: url("../images/omikuji-bg.png1")
+    background-image: url("../images/omikuji-bg1.png1")
     background-size : contain;
     background-repeat: repeat-y;
 }
