@@ -55,15 +55,21 @@ body {
   text-shadow: 2px 2px 0px #4287d6;
 }
 
-#playBtn:hover {
-  margin-top: 35px;
-  color: #FFFFFF;
-  background: #444444;
-  border-bottom: 2px solid #000000;
+@media (hover: hover){
+  #playBtn:hover {
+    margin-top: 35px;
+    color: #FFFFFF;
+    background: #444444;
+    border-bottom: 2px solid #000000;
+  }
 }
 
-@media screen and (max-width:767.98px){
-	#playBtn:hover {
-	}
+@media (hover: none){
+  #playBtn:active {
+    margin-top: 35px;
+    color: #FFFFFF;
+    background: #444444;
+    border-bottom: 2px solid #000000;
+  }
 }
 
