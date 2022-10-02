@@ -62,7 +62,7 @@ body {
 
 @media (hover: hover){
   #playBtn:hover {
-    margin-top: 35px;
+    margin-top: 5px;
     color: #FFFFFF;
     background: #444444;
     border-bottom: 2px solid #000000;
